@@ -52,5 +52,5 @@ Here are some of the technologies I'm proficient in:
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/haiderali-2135/haiderali-2135/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/haiderali-2135/haiderali-2135/output/dist/snake.svg" alt="Snake animation" />
 </p>
