@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Graduate | Full-Stack Developer</h3>
 
 <p align="center">
-  [cite_start]I am a Computer Science graduate from <b>PIEAS</b> [cite: 11, 74, 111, 157, 189, 231] [cite_start]with experience in full-stack development[cite: 4, 82, 123, 240]. [cite_start]I specialize in building applications using <b>React, Next.js, and Node.js</b>[cite: 42, 123, 159, 199, 240]. [cite_start]My experience ranges from developing cross-platform desktop POS systems [cite: 26, 64, 140, 216, 271] [cite_start]to implementing deepfake detection models[cite: 30, 58, 146, 222, 274].
+  I am a Computer Science graduate from <b>PIEAS</b> with experience in full-stack development. I specialize in building applications using <b>React, Next.js, and Node.js</b>. My experience ranges from developing cross-platform desktop POS systems to implementing deepfake detection models.
 </p>
 
 <p align="center">
