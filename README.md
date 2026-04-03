@@ -63,12 +63,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haider-ali-aurangzaib&theme=dracula"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=haider-ali-aurangzaib&show_icons=true&theme=dracula&hide_border=true" alt="Haider's GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haider-ali-aurangzaib&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=haider-ali-aurangzaib&theme=dracula" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haider-ali-aurangzaib&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=haider-ali-aurangzaib&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
