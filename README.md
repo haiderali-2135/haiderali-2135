@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Graduate | Full-Stack Developer</h3>
 
 <p align="center">
-  [cite_start]I am a Computer Science graduate from <b>PIEAS</b> with experience in full-stack development[cite: 11, 74, 111]. [cite_start]I specialize in building applications using <b>React, Next.js, and Node.js</b>[cite: 42, 123, 240]. [cite_start]My experience ranges from developing cross-platform desktop POS systems to implementing deepfake detection models[cite: 26, 30, 64, 140, 274].
+  [cite_start]I am a Computer Science graduate from <b>PIEAS</b> [cite: 11, 74, 111, 157, 189, 231] [cite_start]with experience in full-stack development[cite: 4, 82, 123, 240]. [cite_start]I specialize in building applications using <b>React, Next.js, and Node.js</b>[cite: 42, 123, 159, 199, 240]. [cite_start]My experience ranges from developing cross-platform desktop POS systems [cite: 26, 64, 140, 216, 271] [cite_start]to implementing deepfake detection models[cite: 30, 58, 146, 222, 274].
 </p>
 
 <p align="center">
@@ -43,14 +43,14 @@ Here are some of the technologies I'm proficient in:
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haider-ali-aurangzaib&theme=dracula"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haiderali-2135&theme=dracula"/>
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=haider-ali-aurangzaib&theme=dracula" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haider-ali-aurangzaib&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=haiderali-2135&theme=dracula" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haiderali-2135&layout=compact&langs_count=8&theme=dracula"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/haider-ali-aurangzaib/haider-ali-aurangzaib/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/haiderali-2135/haiderali-2135/output/snake.svg" alt="Snake animation" />
 </p>
